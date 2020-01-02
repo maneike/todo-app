@@ -14,7 +14,7 @@ const todosData = [
     {
       id: 3,
       text: "Clean gecko tank",
-      completed: false
+      completed: true
     },
 
     {
